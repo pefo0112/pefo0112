@@ -4,13 +4,15 @@ My name is Petter Foss! I am a Computer Science Engineer from Norway.
 
 My strengths are: 
 - Mobile Development iOS & Android (React Native)
-- Software Project Develeopment (Mainly JavaScript & Python)
+- Software Project Develeopment
 - Data analysis (Python)
-- Statistical Analysis - Neural networks (LSTM models) - Forecasting (Python)
-- Machine Learning (Python)
+- Statistical Analysis - Machine Learning - Neural networks (LSTM models) - Forecasting (Python)
 
  🔭 I am the founder of (and currently working at) TravelLearn: Check it out here: https://www.travellearn.io/
- 
+
+🌱 Currently learning:
+ - ChatGPT API Integration - PrivateAI - Ollama - Document Querying - RAG - Fine Tuning LLMs (Python / JS)
+
  📫 How to reach me: 'petter' + 'foss1' (at) gmail . com
 
 
