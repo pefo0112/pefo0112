@@ -13,7 +13,8 @@ My 💪🏼's are:
 🔭 I am the founder & full-stack developer of (and currently working at) TravelLearn, check out the:
 - iOS app: https://apps.apple.com/app/id6472997662
 - Android app: https://play.google.com/store/apps/details?id=com.travellearn (App currently in closed-testing, add yourself as tester here: https://www.travellearn.io/links )
-- Website: https://www.travellearn.io/ 
+- Website: https://www.travellearn.io/
+- Instagram: https://www.instagram.com/travellearn_/
 
 
 <br />
