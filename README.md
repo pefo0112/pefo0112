@@ -2,22 +2,24 @@
 
 My name is Petter Foss! I am a Computer Science Engineer from Norway. 
 
-💪🏼 My strengths are: 
+My 💪🏼's are: 
 - Software Project Develeopment
 - Mobile Development iOS & Android (React Native)
 - Data analysis (Python)
 - Statistical Analysis - Machine Learning - Neural networks (LSTM models) - Forecasting (Python)
 
 
- 🔭 I am the founder of (and currently working at) TravelLearn: Check it out here: https://www.travellearn.io/
+ 🔭 I am the founder of (and currently working at) TravelLearn: Check out
+ - iOS app: https://apps.apple.com/app/id6472997662
+ - Android app: https://play.google.com/store/apps/details?id=com.travellearn (App currently in closed-testing, add yourself as tester here: https://www.travellearn.io/links )
+ - Website: https://www.travellearn.io/ 
 
 
 🌱 Currently learning:
- - PrivateAI - Ollama - ChatGPT API Integration - Document Querying - RAG - Fine Tuning LLMs (Python / JS)
+ - PrivateAI - Ollama - ChatGPT API Integration - Document Querying - RAG methods - Fine Tuning LLMs (Python / JS)
 
 
  📫 How to reach me: 'petter' + 'foss1' (at) gmail . com
-
 
 
 <!--
