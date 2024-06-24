@@ -9,11 +9,10 @@ My 💪🏼's are:
 - Statistical Analysis - Machine Learning - Neural networks (LSTM models) - Forecasting (Python)
 
 <br />
- 🔭 I am the founder of (and currently working at) TravelLearn: Check out
- - iOS app: https://apps.apple.com/app/id6472997662
- - Android app: https://play.google.com/store/apps/details?id=com.travellearn (App currently in closed-testing, add yourself as tester here: https://www.travellearn.io/links )
- - Website: https://www.travellearn.io/ 
-
+ 🔭 I am the founder of (and currently working at) TravelLearn, check out the:
+- iOS app: https://apps.apple.com/app/id6472997662
+- Android app: https://play.google.com/store/apps/details?id=com.travellearn (App currently in closed-testing, add yourself as tester here: https://www.travellearn.io/links )
+- Website: https://www.travellearn.io/ 
 <br />
 
 🌱 Currently learning:
