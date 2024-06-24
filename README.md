@@ -8,16 +8,16 @@ My 💪🏼's are:
 - Data analysis (Python)
 - Statistical Analysis - Machine Learning - Neural networks (LSTM models) - Forecasting (Python)
 
-
+<br />
  🔭 I am the founder of (and currently working at) TravelLearn: Check out
  - iOS app: https://apps.apple.com/app/id6472997662
  - Android app: https://play.google.com/store/apps/details?id=com.travellearn (App currently in closed-testing, add yourself as tester here: https://www.travellearn.io/links )
  - Website: https://www.travellearn.io/ 
-
+<br />
 
 🌱 Currently learning:
  - PrivateAI - Ollama - ChatGPT API Integration - Document Querying - RAG methods - Fine Tuning LLMs (Python / JS)
-
+<br />
 
  📫 How to reach me: 'petter' + 'foss1' (at) gmail . com
 
