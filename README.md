@@ -7,7 +7,7 @@ My 💪🏼's are:
 - Mobile Development iOS & Android (React Native)
 - Web development (Javascript, Reactjs, Nextjs, Typescript)
 - Data analysis (Python)
-- Statistical Analysis - Machine Learning - Neural networks (LSTM models) - Forecasting (Python)
+- Machine Learning - Statistical Analysis - Neural networks (LSTM models) - Forecasting (Python)
 
 <br />
 
