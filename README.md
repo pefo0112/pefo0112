@@ -21,7 +21,7 @@ My 💪🏼's are:
 <br />
 
 🌱 Currently learning:
- - PrivateAI - Ollama - ChatGPT API Integration - Document Querying - RAG methods - Fine Tuning LLMs (Python / JS)
+ - PrivateAI - LangChain - OpenAI API Integration, Function Calling - Document Querying - RAG methods - Fine Tuning LLMs (Python / JS)
 <br />
 
  📫 How to reach me: 'petter' + 'foss1' (at) gmail . com
