@@ -4,7 +4,7 @@ My name is Petter Foss! I am a Computer Science Engineer from Norway.
 
 My 💪🏼's are: 
 - Software Project Develeopment
-- Mobile Development iOS & Android (React Native)
+- Mobile Development iOS & Android (Flutter, React Native)
 - Machine Learning - Financial Engineering - Statistical Analysis - Neural networks (LSTM models) - Forecasting (Python)
 - Web development (Javascript, Reactjs, Nextjs, Typescript)
 - Data analysis (Python)
